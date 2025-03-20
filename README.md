@@ -4,7 +4,7 @@
 
 ### Opdracht 1 - Database ontwerp
 
-- Maak op basis van onderstaande userstories en het SQL-bsestand een database ontwerp. 
+- Maak op basis van onderstaande userstories en het SQL-bestand een database ontwerp. 
 
 ### Opdracht 2 - Repository
 
