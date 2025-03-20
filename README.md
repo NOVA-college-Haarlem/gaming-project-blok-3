@@ -20,7 +20,7 @@
 
 - Controleer je website door gebruik te maken van de rubric.
 
-## User Stories Gaming Library
+## Userstories
 
 ### Overzichtspagina
 
