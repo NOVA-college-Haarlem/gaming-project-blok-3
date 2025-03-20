@@ -22,7 +22,7 @@
 
 ## User Stories Gaming Library
 
-## Overzichtspagina
+### Overzichtspagina
 
 **Als een** bezoeker  
 **Wil ik** een overzicht zien van alle beschikbare games  
@@ -36,7 +36,7 @@
 **Wil ik** op een game kunnen klikken  
 **Zodat ik** naar de detailpagina kan gaan voor meer informatie
 
-## Filtering (beperkt tot 2)
+### Filtering
 
 **Als een** bezoeker  
 **Wil ik** kunnen filteren op platform (PC, PlayStation, Xbox, Nintendo, etc.)  
@@ -46,7 +46,7 @@
 **Wil ik** kunnen filteren op genre (Action, RPG, Adventure, etc.)  
 **Zodat ik** games vind die passen bij mijn voorkeur
 
-## Overige Functionaliteiten
+### Overige Functionaliteiten
 
 **Als een** bezoeker  
 **Wil ik** kunnen sorteren op prijs (van laag naar hoog of hoog naar laag)  
